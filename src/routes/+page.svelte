@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to Dallan&apos;s Sveltekit App
 	</h1>
 
 	<h2>
